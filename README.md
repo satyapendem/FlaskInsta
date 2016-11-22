@@ -6,10 +6,11 @@ It was a simple basic Social network. Here User can upload his/her posts. And ev
  1. Python-2.7.10
  2. Flask
  3. Sqlite Database
- 4. WtForms for Flask
+ 4. WtForms for Flask<br>
+ 
 #Register Screen
 
-https://github.com/satyapendem/FlaskInsta/blob/master/screens/reg.png
+![alt tag](https://github.com/satyapendem/FlaskInsta/blob/master/screens/reg.png)
 
 #login screen 
 ![alt tag](https://github.com/satyapendem/FlaskInsta/blob/master/screens/log.png)
