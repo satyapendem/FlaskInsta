@@ -12,18 +12,18 @@ It was a simple basic Social network. Here User can upload his/her posts. And ev
 https://github.com/satyapendem/FlaskInsta/blob/master/screens/reg.png
 
 #login screen 
-https://github.com/satyapendem/FlaskInsta/blob/master/screens/log.png
+![alt tag](https://github.com/satyapendem/FlaskInsta/blob/master/screens/log.png)
 #follow
 
-https://github.com/satyapendem/FlaskInsta/blob/master/screens/follow.png
+![alt tag](https://github.com/satyapendem/FlaskInsta/blob/master/screens/follow.png)
 
 #After Following user
 
-https://github.com/satyapendem/FlaskInsta/blob/master/screens/follow2.png
+![alt tag](https://github.com/satyapendem/FlaskInsta/blob/master/screens/follow2.png)
 
 #POST image(but it is not completed only it will post image name)
 
-https://github.com/satyapendem/FlaskInsta/blob/master/screens/imgpen.png
+![alt tag](https://github.com/satyapendem/FlaskInsta/blob/master/screens/imgpen.png)
 
 
 #Thank you
