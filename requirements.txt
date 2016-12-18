@@ -13,4 +13,5 @@ flask-bcrypt
 Flask-Login
 flask_wtf
 peewee
+requests
 
